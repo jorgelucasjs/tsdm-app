@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "424577196154",
+    "project_id": "tsdm-dff4f",
+    "storage_bucket": "tsdm-dff4f.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:424577196154:android:5ef0fe1d5986fc71499bc3",
+        "android_client_info": {
+          "package_name": "com.akomatec.tsdm"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "424577196154-13piq9s95je3kh66u1pk7aifkr8vefmt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCterQt1YnkAmmZ1PkmBW6q7gXxzsJbyP8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "424577196154-13piq9s95je3kh66u1pk7aifkr8vefmt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
