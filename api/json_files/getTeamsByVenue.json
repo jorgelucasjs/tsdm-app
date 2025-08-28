@@ -1,0 +1,34 @@
+{
+    "get": "teams",
+    "parameters": {
+        "venue": "50"
+    },
+    "errors": [],
+    "results": 1,
+    "paging": {
+        "current": 1,
+        "total": 1
+    },
+    "response": [
+        {
+            "team": {
+                "id": 1947,
+                "name": "Canuelas",
+                "code": "CAN",
+                "country": "Argentina",
+                "founded": 1911,
+                "national": false,
+                "logo": "https://media.api-sports.io/football/teams/1947.png"
+            },
+            "venue": {
+                "id": 50,
+                "name": "Estadio Jorge Alfredo Arín",
+                "address": "Calle República Oriental del Uruguay y San Juan",
+                "city": "Cañuelas, Provincia de Buenos Aires",
+                "capacity": 3000,
+                "surface": "grass",
+                "image": "https://media.api-sports.io/football/venues/50.png"
+            }
+        }
+    ]
+}

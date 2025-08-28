@@ -1,0 +1,109 @@
+{
+    "get": "coachs",
+    "parameters": {
+        "id": "50"
+    },
+    "errors": [],
+    "results": 1,
+    "paging": {
+        "current": 1,
+        "total": 1
+    },
+    "response": [
+        {
+            "id": 50,
+            "name": "Victor Fernández",
+            "firstname": "Victor",
+            "lastname": "Fernández Braulio",
+            "age": 65,
+            "birth": {
+                "date": "1960-11-28",
+                "place": "Zaragoza",
+                "country": "Spain"
+            },
+            "nationality": "Spain",
+            "height": null,
+            "weight": null,
+            "photo": "https://media.api-sports.io/football/coachs/50.png",
+            "team": {
+                "id": 732,
+                "name": "Real Zaragoza",
+                "logo": "https://media.api-sports.io/football/teams/732.png"
+            },
+            "career": [
+                {
+                    "team": {
+                        "id": 732,
+                        "name": "Real Zaragoza",
+                        "logo": "https://media.api-sports.io/football/teams/732.png"
+                    },
+                    "start": "2024-03-01",
+                    "end": "2024-12-01"
+                },
+                {
+                    "team": {
+                        "id": 732,
+                        "name": "Real Zaragoza",
+                        "logo": "https://media.api-sports.io/football/teams/732.png"
+                    },
+                    "start": "2018-12-01",
+                    "end": "2020-08-01"
+                },
+                {
+                    "team": {
+                        "id": 544,
+                        "name": "Deportivo La Coruña",
+                        "logo": "https://media.api-sports.io/football/teams/544.png"
+                    },
+                    "start": "2014-07-01",
+                    "end": "2015-04-01"
+                },
+                {
+                    "team": {
+                        "id": 631,
+                        "name": "Gent",
+                        "logo": "https://media.api-sports.io/football/teams/631.png"
+                    },
+                    "start": "2013-01-01",
+                    "end": "2013-09-01"
+                },
+                {
+                    "team": {
+                        "id": 543,
+                        "name": "Real Betis",
+                        "logo": "https://media.api-sports.io/football/teams/543.png"
+                    },
+                    "start": "2010-01-01",
+                    "end": "2010-06-01"
+                },
+                {
+                    "team": {
+                        "id": 732,
+                        "name": "Real Zaragoza",
+                        "logo": "https://media.api-sports.io/football/teams/732.png"
+                    },
+                    "start": "2006-08-01",
+                    "end": "2008-01-01"
+                },
+                {
+                    "team": {
+                        "id": 212,
+                        "name": "Porto",
+                        "logo": "https://media.api-sports.io/football/teams/212.png"
+                    },
+                    "start": "2004-08-01",
+                    "end": "2005-01-01"
+                },
+                {
+                    "team": {
+                        "id": 543,
+                        "name": "Real Betis",
+                        "logo": "https://media.api-sports.io/football/teams/543.png"
+                    },
+                    "start": "2002-09-01",
+                    "end": "2004-05-01"
+                }
+            ]
+        }
+    ]
+}

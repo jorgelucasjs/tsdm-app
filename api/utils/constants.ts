@@ -1,0 +1,1 @@
+export const GENERIC_PASSWORD = '123456';

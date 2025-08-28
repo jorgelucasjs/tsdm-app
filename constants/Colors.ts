@@ -24,3 +24,28 @@ export const Colors = {
     tabIconSelected: tintColorDark,
   },
 };
+
+
+const primaryLight = '#D32F2F';
+const primaryDark = '#EF5350';
+
+export const lightColors = {
+  primary: primaryLight,
+  background: '#FFFFFF',
+  card: '#F5F5F5',
+  text: '#212121',
+  border: '#E0E0E0',
+  activeTab: '#FFCDD2',
+  primaryDark: primaryDark, // keeping this for potential gradients
+};
+
+export const darkColors = {
+  primary: primaryDark,
+  background: '#121212',
+  card: '#1E1E1E',
+  text: '#E0E0E0',
+  border: '#272727',
+  activeTab: '#D81B60',
+  primaryLight: primaryLight, // keeping this for potential gradients
+  primaryDark: primaryDark,
+};
